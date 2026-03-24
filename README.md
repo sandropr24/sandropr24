@@ -41,32 +41,46 @@ Destaco por mi capacidad de aprendizaje continuo, disciplina y compromiso con el
 
 ---
 
-## 📊 Métricas de GitHub
+## 📊 Actividad y Estadísticas
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=sandropr24&show_icons=true&hide_title=true&hide_border=true"/>
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=sandropr24&hide_border=true"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=sandropr24&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=sandropr24&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandropr24&layout=compact&hide_border=true"/>
+  <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandropr24&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 📂 Proyectos Destacados
+## 🐍 Contribuciones
 
-🔹 **Sistema de gestión hospitalaria**  
-Aplicación enfocada en la administración de pacientes y procesos clínicos.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sandropr24/sandropr24/output/snake.svg"/>
+</p>
 
-🔹 **Sistema de gestión de biblioteca**  
-Sistema para el control de préstamos, usuarios y libros.
+---
 
-🔹 **EcoMarket (E-commerce)**  
-Plataforma web para la venta de productos orgánicos.
+## 📂 Proyectos
 
-🔹 **Página web personal**  
-Sitio web desarrollado con HTML, CSS y JavaScript.
+🔹 **Sistema de Gestión Hospitalaria**  
+Proyecto académico enfocado en el registro y gestión de pacientes, participando en el desarrollo de la lógica y estructura del sistema.
+
+🔹 **Sistema de Gestión de Biblioteca**  
+Aplicación desarrollada en entorno educativo para la administración de libros, usuarios y préstamos, aplicando conceptos de programación y bases de datos.
+
+🔹 **EcoMarket – Tienda Online**  
+Proyecto web desarrollado con HTML, CSS y JavaScript, enfocado en el diseño e implementación de una tienda virtual funcional.
+
+🔹 **Sistema de Proveedores (CodeIgniter)**  
+Desarrollo de un sistema web con PHP y CodeIgniter, implementando rutas, migraciones y operaciones CRUD para la gestión de proveedores.
+
+🔹 **Proyecto con Arduino (Sensor ultrasónico)**  
+Implementación de lógica de control utilizando sensores para encender un LED en función de la distancia detectada.
+
+🔹 **Juego en Greenfoot**  
+Desarrollo de un juego donde un cohete interactúa con meteoritos, aplicando lógica de programación orientada a objetos.
 
 ---
 
