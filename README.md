@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/TU_USUARIO">
+  <a href="https://github.com/sandropr24">
     <img src="https://img.shields.io/badge/GitHub-@TU_USUARIO-181717?style=flat&logo=github"/>
   </a>
   <a href="https://www.linkedin.com/in/sandro-pachas-roman%C3%AD-544a7536b/">
