@@ -70,8 +70,8 @@ Soy estudiante de desarrollo de software enfocado en construir habilidades sóli
 ## 📫 Contacto
 
 - 📧 Email: sandroromanipr24@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/sandro-pachas-roman%C3%AD-544a7536b/  
-- 💻 GitHub: https://github.com/TU_USUARIO  
+- 💼 LinkedIn: https://url-shortener.me/IBYP
+- 💻 GitHub: https://github.com/sandropr24 
 
 ---
 
