@@ -54,14 +54,6 @@ Destaco por mi capacidad de aprendizaje continuo, disciplina y compromiso con el
 
 ---
 
-## 🐍 Contribuciones
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sandropr24/sandropr24/output/snake.svg"/>
-</p>
-
----
-
 ## 📂 Proyectos
 
 🔹 **Sistema de Gestión Hospitalaria**  
