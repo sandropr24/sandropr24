@@ -26,8 +26,10 @@
 
 ## 👨‍💻 Perfil Profesional
 
-Estudiante de desarrollo de software con enfoque en la creación de soluciones eficientes, escalables y bien estructuradas.  
-Interesado en el desarrollo backend, modelado de bases de datos y buenas prácticas de programación.
+Estudiante de desarrollo de software de 19 años, con enfoque en el diseño e implementación de soluciones eficientes, escalables y mantenibles. 
+Interesado en el desarrollo backend, modelado de bases de datos y aplicación de buenas prácticas de programación.
+
+Destaco por mi capacidad de aprendizaje continuo, disciplina y compromiso con el crecimiento profesional, orientado a participar en proyectos reales y adquirir experiencia en el sector tecnológico.
 
 ---
 
