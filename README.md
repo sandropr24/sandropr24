@@ -1,30 +1,42 @@
-<!-- BANNER -->
+<!-- HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Sandro%20Pachas%20Romani&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f2937,100:111827&height=180&section=header&text=Sandro%20Pachas%20Romani&fontSize=30&fontColor=ffffff&animation=fadeIn"/>
+</p>
+
+<h1 align="center">👨‍💻 Sandro Pachas Romani</h1>
+<p align="center">
+  <strong>Desarrollador de Software en formación</strong>
+</p>
+
+<p align="center">
+  <a href="https://github.com/TU_USUARIO">
+    <img src="https://img.shields.io/badge/GitHub-@TU_USUARIO-181717?style=flat&logo=github"/>
+  </a>
+  <a href="https://www.linkedin.com/in/sandro-pachas-roman%C3%AD-544a7536b/">
+    <img src="https://img.shields.io/badge/LinkedIn-Sandro%20Pachas-0A66C2?style=flat&logo=linkedin"/>
+  </a>
+  <a href="mailto:sandroromanipr24@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contáctame-D14836?style=flat&logo=gmail"/>
+  </a>
 </p>
 
 ---
 
-# 👨‍💻 Hola, soy Sandro Pachas Romani 🚀
+## 👋 Sobre mí
 
-💻 **Desarrollador de Software en formación**  
-🔥 Apasionado por la tecnología, el aprendizaje constante y los retos  
+Soy estudiante de desarrollo de software enfocado en construir habilidades sólidas y crear soluciones eficientes para problemas reales.
 
----
-
-## 🌌 Sobre mí
-
-- 🎓 Estudiante de desarrollo de software  
-- 🚀 Siempre mejorando mis habilidades  
-- 🌎 Sueño con viajar y trabajar en proyectos grandes  
-- 💪 Disciplina y constancia son mi base  
+- 🎓 Actualmente estudiando desarrollo de software  
+- 💡 Interesado en backend y bases de datos  
+- 🚀 Mejorando constantemente mis habilidades  
+- 🌍 Objetivo: trabajar en proyectos tecnológicos importantes  
 
 ---
 
-## 🧠 Tecnologías y herramientas
+## 🧰 Tecnologías y herramientas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,mysql,git,github,linux"/>
+  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,mysql,git,linux" />
 </p>
 
 ---
@@ -32,45 +44,42 @@
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=tokyonight"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=default"/>
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=default"/>
 </p>
 
 ---
 
-## 🧩 Proyectos destacados
+## 📌 Proyectos destacados
 
-🚀 **Sistema de gestión hospitalaria**  
-📚 **Sistema de biblioteca**  
-🛒 **Tienda online "EcoMarket"**  
-🌐 **Página web personal**
-
----
-
-## 🏆 Logros y enfoque
-
-✨ Aprendizaje constante  
-🔥 Compromiso con la programación  
-📈 Crecimiento continuo  
+- 🏥 Sistema de gestión hospitalaria  
+- 📚 Sistema de biblioteca  
+- 🛒 EcoMarket (tienda online)  
+- 🌐 Página web personal  
 
 ---
 
-## ⚡ Frase que me representa
+## 🎯 Objetivos
 
-> "La disciplina tarde o temprano vencerá a la inteligencia."
+- Fortalecer mis habilidades en backend y bases de datos  
+- Participar en proyectos reales  
+- Seguir aprendiendo nuevas tecnologías  
 
 ---
 
 ## 📫 Contacto
 
-<p align="center">
-  <a href="https://github.com/TU_USUARIO">
-    <img src="https://img.shields.io/badge/GitHub-Perfil-181717?style=for-the-badge&logo=github"/>
-  </a>
-</p>
+- 📧 Email: sandroromanipr24@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/sandro-pachas-roman%C3%AD-544a7536b/  
+- 💻 GitHub: https://github.com/TU_USUARIO  
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
+  <sub>“La disciplina tarde o temprano vencerá a la inteligencia.”</sub>
+</p>
+
+<!-- FOOTER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:1f2937&height=100&section=footer"/>
 </p>
