@@ -3,7 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f2937,100:111827&height=180&section=header&text=Sandro%20Pachas%20Romani&fontSize=30&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
-<h1 align="center">👨‍💻 Sandro Pachas Romani</h1>
 <p align="center">
   <strong>Desarrollador de Software en formación</strong>
 </p>
@@ -44,8 +43,8 @@ Soy estudiante de desarrollo de software enfocado en construir habilidades sóli
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=default"/>
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=default"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=sandropr24&show_icons=true&theme=default"/>
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=sandropr24&theme=default"/>
 </p>
 
 ---
