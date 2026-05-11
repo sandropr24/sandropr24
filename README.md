@@ -1,101 +1,114 @@
-<!-- HEADER -->
+<!-- BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:020617&height=200&section=header&text=Sandro%20Pachas%20Romani&fontSize=30&fontColor=ffffff&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f172a,100:2563eb&text=Sandro%20Pachas%20Romaní&fontAlign=50&fontAlignY=40&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
 </p>
+
 <!-- TYPING -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&width=500&lines=Desarrollador+de+Software;Enfocado+en+Backend+y+Bases+de+Datos;Aprendizaje+Constante+y+Disciplina"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Desarrollador+de+Software;Backend+Developer+en+formación;Apasionado+por+las+Bases+de+Datos;Construyendo+proyectos+y+aprendiendo+cada+día"/>
 </p>
-<h2 align="center">Desarrollador de Software en formación</h2>
+
+---
+
+# 👨‍💻 Sobre mí
+
+🎓 Estudiante de Desarrollo de Software  
+💻 Enfocado en desarrollo **Backend**, bases de datos y arquitectura de software  
+📚 Aprendiendo constantemente nuevas tecnologías y buenas prácticas  
+🚀 Interesado en participar en proyectos reales y colaborativos  
+🎯 Objetivo: Convertirme en un desarrollador backend profesional
+
+---
+
+# 🛠️ Tecnologías y Herramientas
+
 <p align="center">
-  <a href="https://github.com/sandropr24">
-    <img src="https://img.shields.io/badge/GitHub-sandropr24-0d1117?style=for-the-badge&logo=github"/>
-  </a>
-  <a href="https://www.linkedin.com/in/sandro-pachas-roman%C3%AD-544a7536b/">
-    <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,mysql,php,git,github,linux,vscode&perline=6"/>
+</p>
+
+---
+
+# 📌 Tecnologías que estoy aprendiendo
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,docker,react"/>
+</p>
+
+---
+
+# 📊 Estadísticas de GitHub
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sandropr24&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+  
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=sandropr24&theme=tokyonight&hide_border=true&background=0D1117"/>
+</p>
+
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandropr24&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+</p>
+
+---
+
+# 🚀 Proyectos Destacados
+
+## 🏥 Sistema de Gestión Hospitalaria
+Sistema académico orientado al registro y administración de pacientes, aplicando lógica backend y modelado de base de datos.
+
+## 📚 Sistema de Gestión de Biblioteca
+Aplicación para administrar libros, usuarios y préstamos utilizando programación orientada a objetos y MySQL.
+
+## 🛒 EcoMarket – Tienda Online
+Proyecto web desarrollado con HTML, CSS y JavaScript enfocado en una experiencia moderna de tienda virtual.
+
+## 🧾 Sistema de Proveedores (CodeIgniter)
+Sistema CRUD desarrollado con PHP y CodeIgniter utilizando rutas, migraciones y conexión a base de datos.
+
+## 🤖 Proyecto Arduino – Sensor Ultrasónico
+Implementación de lógica electrónica utilizando sensores para automatización y control de LEDs.
+
+## 🚀 Juego en Greenfoot
+Videojuego desarrollado con Java y programación orientada a objetos basado en interacción entre cohetes y meteoritos.
+
+---
+
+# 🎯 Objetivos Profesionales
+
+✅ Especializarme en desarrollo backend  
+✅ Fortalecer conocimientos en bases de datos y APIs  
+✅ Participar en proyectos reales  
+✅ Aprender arquitectura de software y buenas prácticas  
+✅ Crecer profesionalmente en el sector tecnológico
+
+---
+
+# 🌎 Conecta conmigo
+
+<p align="center">
   <a href="mailto:sandroromanipr24@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contacto-D14836?style=for-the-badge&logo=gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/sandropr24">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/sandro-pachas-roman%C3%AD-544a7536b/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## 👨‍💻 Perfil Profesional
-
-Estudiante de desarrollo de software de 19 años, con enfoque en el diseño e implementación de soluciones eficientes, escalables y mantenibles. 
-Interesado en el desarrollo backend, modelado de bases de datos y aplicación de buenas prácticas de programación.
-Destaco por mi capacidad de aprendizaje continuo, disciplina y compromiso con el crecimiento profesional, orientado a participar en proyectos reales y adquirir experiencia en el sector tecnológico.
-
----
-
-## 🧰 Stack Tecnológico
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,mysql,git,linux" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 </p>
-
----
-
-## 📊 Actividad y Estadísticas
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=sandropr24&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=sandropr24&theme=tokyonight&hide_border=true"/>
-</p>
-<p align="center">
-  <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandropr24&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 📂 Proyectos
-
-🔹 **Sistema de Gestión Hospitalaria**  
-Proyecto académico enfocado en el registro y gestión de pacientes, participando en el desarrollo de la lógica y estructura del sistema.
-
-🔹 **Sistema de Gestión de Biblioteca**  
-Aplicación desarrollada en entorno educativo para la administración de libros, usuarios y préstamos, aplicando conceptos de programación y bases de datos.
-
-🔹 **EcoMarket – Tienda Online**  
-Proyecto web desarrollado con HTML, CSS y JavaScript, enfocado en el diseño e implementación de una tienda virtual funcional.
-
-🔹 **Sistema de Proveedores (CodeIgniter)**  
-Desarrollo de un sistema web con PHP y CodeIgniter, implementando rutas, migraciones y operaciones CRUD para la gestión de proveedores.
-
-🔹 **Proyecto con Arduino (Sensor ultrasónico)**  
-Implementación de lógica de control utilizando sensores para encender un LED en función de la distancia detectada.
-
-🔹 **Juego en Greenfoot**  
-Desarrollo de un juego donde un cohete interactúa con meteoritos, aplicando lógica de programación orientada a objetos.
-
----
-
-## 🎯 Objetivos Profesionales
-
-- Especializarme en desarrollo backend  
-- Participar en proyectos reales y colaborativos  
-- Fortalecer conocimientos en bases de datos y arquitectura de software  
-- Alcanzar un nivel profesional competitivo en el área tecnológica  
-
----
-
-## 📫 Contacto
-
-<p align="center">
-
-📧 **Email:** sandroromanipr24@gmail.com  
-💼 **LinkedIn:** https://url-shortener.me/IBYP  
-💻 **GitHub:** https://github.com/sandropr24  
-
-</p>
-
----
 
 <p align="center">
   <i>"La disciplina tarde o temprano vencerá a la inteligencia."</i>
 </p>
+
 <!-- FOOTER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:0f172a&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:2563eb,100:0f172a"/>
 </p>
