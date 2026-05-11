@@ -173,11 +173,6 @@ Asistente de voz con reconocimiento de habla, integración con **Gemini API**, c
 <br/>
 
 <p align="center">
-  <a href="mailto:sandroromanipr24@gmail.com">
-    <img src="https://img.shields.io/badge/📧_sandroromanipr24@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-<p align="center">
   <a href="https://url-shortener.me/IBYP">
     <img src="https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
