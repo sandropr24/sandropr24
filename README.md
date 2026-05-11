@@ -19,10 +19,6 @@
   <a href="https://www.linkedin.com/in/sandro-pachas-roman%C3%AD-544a7536b/">
     <img src="https://img.shields.io/badge/%F0%9F%92%BC_LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  &nbsp;
-  <a href="mailto:sandroromanipr24@gmail.com">
-    <img src="https://img.shields.io/badge/%F0%9F%93%A7_Email-Escribir-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
 </p>
 
 <p align="center">
