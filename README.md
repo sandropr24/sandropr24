@@ -57,10 +57,6 @@ Actualmente continúo ampliando mis conocimientos en backend, APIs, bases de dat
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sandropr24&theme=tokyonight" alt="Estadísticas generales" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=sandropr24&theme=tokyonight&hide_border=true" alt="Racha de Sandro" />
-</p>
-
 ---
 
 ## 🚀 Proyectos Destacados
